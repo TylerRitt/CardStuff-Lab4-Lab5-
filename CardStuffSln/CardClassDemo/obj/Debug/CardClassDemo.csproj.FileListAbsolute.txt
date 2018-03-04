@@ -1,0 +1,9 @@
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\bin\Debug\CardClassDemo.exe.config
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\bin\Debug\CardClassDemo.exe
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\bin\Debug\CardClassDemo.pdb
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\bin\Debug\CardClassLibrary.dll
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\bin\Debug\CardClassLibrary.pdb
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\obj\Debug\CardClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\obj\Debug\CardClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\obj\Debug\CardClassDemo.exe
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\CardClassDemo\obj\Debug\CardClassDemo.pdb

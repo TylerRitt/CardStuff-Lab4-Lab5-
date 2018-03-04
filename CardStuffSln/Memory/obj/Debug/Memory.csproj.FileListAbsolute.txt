@@ -1,0 +1,12 @@
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\bin\Debug\Memory.exe.config
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\bin\Debug\Memory.exe
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\bin\Debug\Memory.pdb
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\obj\Debug\Memory.boardForm.resources
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\obj\Debug\Memory.exe
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\obj\Debug\Memory.pdb
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\bin\Debug\CardClassLibrary.dll
+C:\Users\Tyler\Desktop\CardClassDemo\CardStuffSln\Memory\bin\Debug\CardClassLibrary.pdb
